@@ -1,0 +1,11 @@
+C:\Users\palinca\Documents\MTP\lab2\Spanzuratoare\Spanzuratoare\Spanzuratoare\bin\Debug\Spanzuratoare.exe.config
+C:\Users\palinca\Documents\MTP\lab2\Spanzuratoare\Spanzuratoare\Spanzuratoare\bin\Debug\Spanzuratoare.exe
+C:\Users\palinca\Documents\MTP\lab2\Spanzuratoare\Spanzuratoare\Spanzuratoare\bin\Debug\Spanzuratoare.pdb
+C:\Users\palinca\Documents\MTP\lab2\Spanzuratoare\Spanzuratoare\Spanzuratoare\obj\Debug\Spanzuratoare.csprojAssemblyReference.cache
+C:\Users\palinca\Documents\MTP\lab2\Spanzuratoare\Spanzuratoare\Spanzuratoare\obj\Debug\Spanzuratoare.Form1.resources
+C:\Users\palinca\Documents\MTP\lab2\Spanzuratoare\Spanzuratoare\Spanzuratoare\obj\Debug\Spanzuratoare.Properties.Resources.resources
+C:\Users\palinca\Documents\MTP\lab2\Spanzuratoare\Spanzuratoare\Spanzuratoare\obj\Debug\Spanzuratoare.csproj.GenerateResource.cache
+C:\Users\palinca\Documents\MTP\lab2\Spanzuratoare\Spanzuratoare\Spanzuratoare\obj\Debug\Spanzuratoare.csproj.CoreCompileInputs.cache
+C:\Users\palinca\Documents\MTP\lab2\Spanzuratoare\Spanzuratoare\Spanzuratoare\obj\Debug\Spanzuratoare.exe
+C:\Users\palinca\Documents\MTP\lab2\Spanzuratoare\Spanzuratoare\Spanzuratoare\obj\Debug\Spanzuratoare.pdb
+C:\Users\palinca\Documents\MTP\lab2\Spanzuratoare\Spanzuratoare\Spanzuratoare\obj\Debug\Spanzuratoare.Form2.resources
